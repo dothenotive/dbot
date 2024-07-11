@@ -1,0 +1,508 @@
+2023-06-08 04:46:07 | [INFO]    | Discordia 2.10.0-1
+2023-06-08 04:46:07 | [INFO]    | Connecting to Discord...
+2023-06-08 04:46:07 | [INFO]    | Authenticated as LD#7006
+2023-06-08 04:46:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-06-08 04:46:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-06-08 04:46:07 | [INFO]    | Shard 0 : Received HELLO
+2023-06-08 04:46:08 | [INFO]    | Shard 0 : Received READY
+2023-06-08 04:46:24 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2023-06-08 04:46:38 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2023-06-08 04:46:40 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2023-06-08 04:52:44 | [INFO]    | Discordia 2.10.0-1
+2023-06-08 04:52:44 | [INFO]    | Connecting to Discord...
+2023-06-08 04:52:44 | [INFO]    | Authenticated as LD#7006
+2023-06-08 04:52:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2023-06-08 04:52:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2023-06-08 04:52:45 | [INFO]    | Shard 0 : Received HELLO
+2023-06-08 04:52:46 | [INFO]    | Shard 0 : Received READY
+2024-07-10 07:08:24 | [INFO]    | Discordia 2.10.0-1
+2024-07-10 07:08:24 | [INFO]    | Connecting to Discord...
+2024-07-10 07:08:24 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v7/users/@me
+2024-07-10 07:08:24 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2024-07-10 07:09:06 | [INFO]    | Discordia 2.11.2
+2024-07-10 07:09:06 | [INFO]    | Connecting to Discord...
+2024-07-10 07:09:06 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2024-07-10 07:09:06 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2024-07-10 07:10:19 | [INFO]    | Discordia 2.11.2
+2024-07-10 07:10:19 | [INFO]    | Connecting to Discord...
+2024-07-10 07:10:19 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-10 07:10:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-10 07:10:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-10 07:10:20 | [INFO]    | Shard 0 : Received HELLO
+2024-07-10 07:10:21 | [INFO]    | Shard 0 : Received READY
+2024-07-10 07:16:39 | [INFO]    | Discordia 2.11.2
+2024-07-10 07:16:39 | [INFO]    | Connecting to Discord...
+2024-07-10 07:17:13 | [INFO]    | Discordia 2.11.2
+2024-07-10 07:17:13 | [INFO]    | Connecting to Discord...
+2024-07-10 07:17:14 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-10 07:17:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-10 07:17:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-10 07:17:14 | [INFO]    | Shard 0 : Received HELLO
+2024-07-10 07:17:15 | [INFO]    | Shard 0 : Received READY
+2024-07-10 07:17:24 | [INFO]    | Discordia 2.11.2
+2024-07-10 07:17:24 | [INFO]    | Connecting to Discord...
+2024-07-10 07:17:24 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-10 07:17:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-10 07:17:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-10 07:17:25 | [INFO]    | Shard 0 : Received HELLO
+2024-07-10 07:17:26 | [INFO]    | Shard 0 : Received READY
+2024-07-10 07:17:26 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-10 07:18:13 | [INFO]    | Discordia 2.11.2
+2024-07-10 07:18:13 | [INFO]    | Connecting to Discord...
+2024-07-10 07:18:14 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-10 07:18:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-10 07:18:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-10 07:18:14 | [INFO]    | Shard 0 : Received HELLO
+2024-07-10 07:18:15 | [INFO]    | Shard 0 : Received READY
+2024-07-10 07:19:22 | [INFO]    | Discordia 2.11.2
+2024-07-10 07:19:22 | [INFO]    | Connecting to Discord...
+2024-07-10 07:19:22 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-10 07:19:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-10 07:19:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-10 07:19:23 | [INFO]    | Shard 0 : Received HELLO
+2024-07-10 07:19:24 | [INFO]    | Shard 0 : Received READY
+2024-07-11 06:51:26 | [INFO]    | Discordia 2.11.2
+2024-07-11 06:51:26 | [INFO]    | Connecting to Discord...
+2024-07-11 06:51:27 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 06:51:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 06:51:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 06:51:27 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 06:51:28 | [INFO]    | Shard 0 : Received READY
+2024-07-11 06:51:32 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 06:53:15 | [INFO]    | Discordia 2.11.2
+2024-07-11 06:53:15 | [INFO]    | Connecting to Discord...
+2024-07-11 06:53:16 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 06:53:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 06:53:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 06:53:16 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 06:53:17 | [INFO]    | Shard 0 : Received READY
+2024-07-11 06:53:27 | [INFO]    | Discordia 2.11.2
+2024-07-11 06:53:27 | [INFO]    | Connecting to Discord...
+2024-07-11 06:53:28 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 06:53:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 06:53:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 06:53:28 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 06:53:29 | [INFO]    | Shard 0 : Received READY
+2024-07-11 06:53:48 | [INFO]    | Discordia 2.11.2
+2024-07-11 06:53:48 | [INFO]    | Connecting to Discord...
+2024-07-11 06:53:48 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 06:53:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 06:53:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 06:53:49 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 06:53:50 | [INFO]    | Shard 0 : Received READY
+2024-07-11 06:54:00 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 06:54:02 | [INFO]    | Discordia 2.11.2
+2024-07-11 06:54:02 | [INFO]    | Connecting to Discord...
+2024-07-11 06:54:03 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 06:54:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 06:54:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 06:54:03 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 06:54:04 | [INFO]    | Shard 0 : Received READY
+2024-07-11 06:57:44 | [INFO]    | Discordia 2.11.2
+2024-07-11 06:57:44 | [INFO]    | Connecting to Discord...
+2024-07-11 06:57:45 | [ERROR]   | 401 - Unauthorized : GET https://discord.com/api/v8/users/@me
+2024-07-11 06:57:45 | [ERROR]   | Could not authenticate, check token: HTTP Error 0 : 401: Unauthorized
+2024-07-11 06:58:02 | [INFO]    | Discordia 2.11.2
+2024-07-11 06:58:02 | [INFO]    | Connecting to Discord...
+2024-07-11 06:58:02 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 06:58:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 06:58:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 06:58:03 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 06:58:03 | [INFO]    | Shard 0 : Received READY
+2024-07-11 06:59:49 | [INFO]    | Discordia 2.11.2
+2024-07-11 06:59:49 | [INFO]    | Connecting to Discord...
+2024-07-11 06:59:49 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 06:59:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 06:59:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 06:59:49 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 06:59:50 | [INFO]    | Shard 0 : Received READY
+2024-07-11 06:59:57 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:00:01 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:00:08 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:00:14 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:00:14 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:01:03 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:01:08 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:01:15 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:01:31 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:01:43 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:01:47 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:01:49 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:01:52 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:01:53 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_UPDATE
+2024-07-11 07:01:56 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:01:56 | [INFO]    | Connecting to Discord...
+2024-07-11 07:01:56 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:01:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:01:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:01:56 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:01:58 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:02:06 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:02:06 | [INFO]    | Connecting to Discord...
+2024-07-11 07:02:06 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:02:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:02:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:02:06 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:02:07 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:02:30 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:02:30 | [INFO]    | Connecting to Discord...
+2024-07-11 07:02:30 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:02:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:02:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:02:30 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:02:31 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:08:09 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:08:09 | [INFO]    | Connecting to Discord...
+2024-07-11 07:08:09 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:08:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:08:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:08:09 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:08:10 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:08:19 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:08:23 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:10:39 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:10:39 | [INFO]    | Connecting to Discord...
+2024-07-11 07:10:39 | [ERROR]   | 400 - Bad Request : GET https://discord.com/api/v8/users/@me
+2024-07-11 07:10:39 | [ERROR]   | Could not authenticate, check token: <html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+
+2024-07-11 07:12:28 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:12:28 | [INFO]    | Connecting to Discord...
+2024-07-11 07:12:29 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:12:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:12:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:12:29 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:12:30 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:12:57 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:13:05 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:13:05 | [INFO]    | Connecting to Discord...
+2024-07-11 07:13:05 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:13:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:13:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:13:06 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:13:07 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:13:07 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:13:18 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:13:18 | [INFO]    | Connecting to Discord...
+2024-07-11 07:13:18 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:13:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:13:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:13:18 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:13:19 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:13:21 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:13:34 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:13:37 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:13:43 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:13:46 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:13:46 | [INFO]    | Connecting to Discord...
+2024-07-11 07:13:47 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:13:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:13:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:13:47 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:13:48 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:13:55 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:14:22 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:14:22 | [INFO]    | Connecting to Discord...
+2024-07-11 07:14:22 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:14:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:14:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:14:23 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:14:24 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:14:25 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:14:31 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:14:39 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:14:39 | [INFO]    | Connecting to Discord...
+2024-07-11 07:14:40 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:14:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:14:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:14:40 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:14:41 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:15:03 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:15:03 | [INFO]    | Connecting to Discord...
+2024-07-11 07:15:03 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:15:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:15:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:15:03 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:15:06 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:15:18 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:15:27 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:15:28 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:15:29 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_DELETE
+2024-07-11 07:15:31 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:15:33 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:15:35 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_DELETE
+2024-07-11 07:15:37 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:15:39 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:15:42 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:15:43 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:16:03 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:16:04 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:16:04 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:16:18 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:16:46 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:16:58 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:17:08 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:17:35 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:17:37 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:17:59 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:18:19 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:18:47 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:18:47 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:19:10 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:19:22 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:19:26 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:30:55 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:30:55 | [INFO]    | Connecting to Discord...
+2024-07-11 07:30:56 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:30:56 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:30:56 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:30:56 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:30:57 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:31:00 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:31:00 | [INFO]    | Connecting to Discord...
+2024-07-11 07:31:00 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:31:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:31:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:31:00 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:31:01 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:31:27 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:31:27 | [INFO]    | Connecting to Discord...
+2024-07-11 07:31:27 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:31:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:31:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:31:28 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:31:29 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:31:31 | [WARNING] | Shard 0 : Unhandled gateway event: USER_SETTINGS_PROTO_UPDATE
+2024-07-11 07:31:32 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:31:35 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:31:35 | [INFO]    | Connecting to Discord...
+2024-07-11 07:31:35 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:31:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:31:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:31:35 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:31:36 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:31:44 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:31:45 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:33:17 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:33:17 | [INFO]    | Connecting to Discord...
+2024-07-11 07:33:17 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:33:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:33:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:33:17 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:33:18 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:33:24 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:33:46 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:33:49 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:33:49 | [INFO]    | Connecting to Discord...
+2024-07-11 07:33:50 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:33:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:33:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:33:50 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:33:51 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:33:52 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:33:56 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:34:00 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:34:04 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:34:07 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:34:20 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:34:20 | [INFO]    | Connecting to Discord...
+2024-07-11 07:34:20 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:34:20 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:34:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:34:20 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:34:22 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:34:32 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:34:32 | [INFO]    | Connecting to Discord...
+2024-07-11 07:34:32 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:34:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:34:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:34:32 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:34:33 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:34:46 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:34:51 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:34:51 | [INFO]    | Connecting to Discord...
+2024-07-11 07:34:51 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:34:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:34:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:34:51 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:34:53 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:35:00 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:35:04 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:35:04 | [INFO]    | Connecting to Discord...
+2024-07-11 07:35:04 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:35:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:35:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:35:04 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:35:05 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:35:13 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:35:15 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:35:40 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:35:40 | [INFO]    | Connecting to Discord...
+2024-07-11 07:35:40 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:35:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:35:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:35:40 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:35:42 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:35:45 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:35:47 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:35:47 | [INFO]    | Connecting to Discord...
+2024-07-11 07:35:48 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:35:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:35:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:35:48 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:35:49 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:35:56 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:35:57 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:35:58 | [WARNING] | Uncached TextChannel (1064068257264439326) on MESSAGE_CREATE
+2024-07-11 07:36:12 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:36:21 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:36:25 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:36:53 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:36:53 | [INFO]    | Connecting to Discord...
+2024-07-11 07:36:53 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:36:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:36:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:36:53 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:36:54 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:37:06 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:37:06 | [INFO]    | Connecting to Discord...
+2024-07-11 07:37:07 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:37:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:37:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:37:07 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:37:08 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:37:16 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:37:16 | [INFO]    | Connecting to Discord...
+2024-07-11 07:37:16 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:37:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:37:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:37:16 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:37:17 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:37:17 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:37:27 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:37:48 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:37:59 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:38:05 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:38:29 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:38:37 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:38:52 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:38:57 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:39:05 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:39:05 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:39:53 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:39:59 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:40:25 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:40:29 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:40:31 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:40:37 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:41:18 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:41:50 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:42:00 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:42:13 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:43:35 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:43:55 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:44:02 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:44:04 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:44:38 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:44:46 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:44:56 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:45:05 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:45:10 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:45:11 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:45:35 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:45:52 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:46:00 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:46:29 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:46:43 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:46:57 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:47:17 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:47:30 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:47:57 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:48:01 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:48:16 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:48:37 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:49:10 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:49:12 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:49:25 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:49:34 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:49:37 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:49:37 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:49:38 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:50:24 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:50:26 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:50:55 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:51:01 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:51:35 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:52:01 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:52:24 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:52:59 | [WARNING] | Shard 0 : Unhandled gateway event: VOICE_CHANNEL_STATUS_UPDATE
+2024-07-11 07:53:04 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:53:12 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:53:48 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:54:01 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 07:54:03 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 07:54:22 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:54:22 | [INFO]    | Connecting to Discord...
+2024-07-11 07:54:22 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:54:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:54:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:54:23 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:54:24 | [INFO]    | Shard 0 : Received READY
+2024-07-11 07:54:41 | [INFO]    | Discordia 2.11.2
+2024-07-11 07:54:41 | [INFO]    | Connecting to Discord...
+2024-07-11 07:54:41 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 07:54:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 07:54:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 07:54:41 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 07:54:42 | [INFO]    | Shard 0 : Received READY
+2024-07-11 08:08:22 | [INFO]    | Discordia 2.11.2
+2024-07-11 08:08:22 | [INFO]    | Connecting to Discord...
+2024-07-11 08:08:23 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 08:08:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 08:08:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 08:08:23 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 08:08:24 | [INFO]    | Shard 0 : Received READY
+2024-07-11 08:08:30 | [INFO]    | Discordia 2.11.2
+2024-07-11 08:08:30 | [INFO]    | Connecting to Discord...
+2024-07-11 08:08:31 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 08:08:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 08:08:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 08:08:32 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 08:08:33 | [INFO]    | Shard 0 : Received READY
+2024-07-11 08:08:36 | [WARNING] | Shard 0 : Unhandled gateway event: USER_SETTINGS_PROTO_UPDATE
+2024-07-11 08:08:44 | [INFO]    | Discordia 2.11.2
+2024-07-11 08:08:44 | [INFO]    | Connecting to Discord...
+2024-07-11 08:08:44 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 08:08:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 08:08:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 08:08:44 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 08:08:45 | [INFO]    | Shard 0 : Received READY
+2024-07-11 08:09:13 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 08:09:25 | [INFO]    | Discordia 2.11.2
+2024-07-11 08:09:25 | [INFO]    | Connecting to Discord...
+2024-07-11 08:09:26 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 08:09:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 08:09:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 08:09:26 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 08:09:27 | [INFO]    | Shard 0 : Received READY
+2024-07-11 08:09:29 | [WARNING] | Shard 0 : Unhandled gateway event: CONVERSATION_SUMMARY_UPDATE
+2024-07-11 08:09:30 | [WARNING] | Shard 0 : Unhandled gateway event: CHANNEL_UNREAD_UPDATE
+2024-07-11 08:09:45 | [INFO]    | Discordia 2.11.2
+2024-07-11 08:09:45 | [INFO]    | Connecting to Discord...
+2024-07-11 08:09:45 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 08:09:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 08:09:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 08:09:45 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 08:09:46 | [INFO]    | Shard 0 : Received READY
+2024-07-11 08:11:17 | [INFO]    | Discordia 2.11.2
+2024-07-11 08:11:17 | [INFO]    | Connecting to Discord...
+2024-07-11 08:11:17 | [INFO]    | Authenticated as ancestrychanged#0
+2024-07-11 08:11:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2024-07-11 08:11:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2024-07-11 08:11:17 | [INFO]    | Shard 0 : Received HELLO
+2024-07-11 08:11:18 | [INFO]    | Shard 0 : Received READY
